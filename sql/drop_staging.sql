@@ -1,0 +1,1 @@
+drop table fin_facts_staging;

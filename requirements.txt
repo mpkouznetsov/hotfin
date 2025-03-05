@@ -1,0 +1,6 @@
+git+ssh://git@github.com/sec-edgar/sec-edgar.git@master#egg=secedgar
+pandas
+psycopg2
+pydantic
+pyyaml
+wikipedia

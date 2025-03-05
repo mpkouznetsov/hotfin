@@ -1,0 +1,14 @@
+database:
+  host: localhost
+  port: 5432
+  user: "postgres"
+  password: "qbc"
+downloader:
+  user_agent: "your name (email@example.com)"
+  history_start_date: 1999-01-01     # We will load data going back to this date
+  sp500_composition_date: 2006-01-01 # We will limit our universe to companies in S&P 500 as of this date
+  data_dir: "data"
+logging:
+  level: DEBUG
+  file: hotfin.log
+
