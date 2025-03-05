@@ -1,4 +1,15 @@
+# byte-compiled files
+__pycache__/
+
 # downloaded data files
 data/
 
+# virtual environment
 venv/
+
+# PyCharm etc.
+*.idea/
+
+# MacOS system files
+*.DS_Store
+
